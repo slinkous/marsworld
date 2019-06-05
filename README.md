@@ -28,4 +28,4 @@ This mod is intended to be usable by all, but was created as part of a terraform
 
 ## Progress
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-lxR0RWybjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Working with Biomes API](https://youtu.be/-lxR0RWybjg) 

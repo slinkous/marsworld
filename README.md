@@ -25,3 +25,7 @@ This mod is intended to be usable by all, but was created as part of a terraform
 
 - [Piskel for current textures](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgKCBjajrCww/view)
 - [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/)
+
+## Progress
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-lxR0RWybjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

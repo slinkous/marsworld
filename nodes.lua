@@ -55,6 +55,31 @@ minetest.register_node("marsworld:finedust", {
  },
 })
 
+minetest.register_node("marsworld:windyfines", {
+	description = "Mars Fines in the Wind",
+	-- drawtype="nodebox";
+	-- tiles = {"fines.png"},
+	tiles = {
+		{
+			name = "marswindyfines.png",
+			backface_culling = true,
+			animation = {
+				type = "vertical_frames",
+				aspect_w = 16,
+				aspect_h = 16,
+				length = 0.8,
+			},
+      "fines.png"
+		},
+    -- node_box = {
+    --   type = "fixed",
+    --   fixed = {
+    --     {-0.5, -0.5, -0.5, 0.5, -0.25, 0.5},
+    --   },
+    -- },
+	},
+})
+
 minetest.register_node("marsworld:rock1", {
  description = "Mars Rock",
  drawtype="nodebox";
